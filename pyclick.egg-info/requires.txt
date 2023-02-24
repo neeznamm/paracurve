@@ -1,0 +1,5 @@
+numpy>=1.14.2
+PyAutoGUI>=0.9.36
+PyTweening>=1.0.3
+python3-xlib>=0.15
+xlib>=0.21
