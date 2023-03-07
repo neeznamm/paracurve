@@ -1,4 +1,4 @@
-numpy==1.14.2
+numpy~=1.23.5
 Pillow==5.0.0
 pkg-resources==0.0.0
 PyAutoGUI==0.9.36
@@ -8,3 +8,10 @@ python3-xlib==0.15
 PyTweening==1.0.3
 six==1.11.0
 xlib==0.21
+pandas~=1.5.3
+pyclick~=0.0.2
+scikit-learn~=1.2.1
+scipy~=1.10.1
+matplotlib~=3.7.1
+pyod~=1.0.7
+combo~=0.1.3
